@@ -5,7 +5,7 @@ Deployed PCF 2.7.0
 - PAS (Small Runtime) v2.7.0
 
 Stemcell Used by PAS
-- [ubuntu-xenial 456.27](https://bosh.io/stemcells/bosh-warden-boshlite-ubuntu-xenial-go_agent#v456.27)
+- [ubuntu-xenial 456.27](https://bosh.io/stemcells/bosh-azure-hyperv-ubuntu-xenial-go_agent#v456.27)
 
 No additional hardening was done on the virtual machine. 
 
